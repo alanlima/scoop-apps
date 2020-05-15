@@ -13,6 +13,7 @@ scoop bucket add scoop-apps https://github.com/alanlima/scoop-apps.git
 
 # App List
 
-| Name      	| Version   	| Homepage                             	|
-|-----------	|-----------	|--------------------------------------	|
-| Database4 	| 30.1.7400 	| https://fishcodelib.com/Database.htm 	|
+| Name      	          | Version   	      | Installer   	                  | Homepage                             	        |
+|-----------	          |-----------	      |-----------	                    |--------------------------------------	        |
+| Banana Cake Pop 	    | 1.0.0.preview-3 	| `scoop install bananacakepop` 	| https://hotchocolate.io/docs/banana-cakepop 	|
+| Darklang CLI          | 0.5.3             | `scoop install dark-cli` 	      | https://darklang.com/                         |

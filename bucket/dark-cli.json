@@ -1,5 +1,5 @@
 {
-    "version": "1",
+    "version": "0.5.3",
     "description": "Darklang command-line app to deploy static assets.",
     "homepage": "https://darklang.com/",
     "license": {
