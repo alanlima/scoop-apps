@@ -1,0 +1,13 @@
+{
+    "version": "1.2.4",
+    "description": "bombardier is a HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent fasthttp instead of Go's default http library, because of its lightning fast performance.",
+    "homepage": "https://github.com/codesenberg/bombardier",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/codesenberg/bombardier/releases/download/v1.2.4/bombardier-windows-amd64.exe#/bombardier.exe",
+            "hash": "DC0FA7A8EE725E0498847FD695DA972DE16C4B3B006B5801860882012616CF6F"
+        }
+    },
+    "bin": "bombardier.exe"
+}
