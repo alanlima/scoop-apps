@@ -1,0 +1,11 @@
+{
+    "version": "0.11.0",
+    "description": "Cassowary is a modern HTTP/S, intuitive & cross-platform load testing tool built in Go for developers, testers and sysadmins. Cassowary draws inspiration from awesome projects like k6, ab & httpstat.",
+    "homepage": "https://github.com/rogerwelin/cassowary",
+    "license": {
+        "identifier": "Freeware"
+    },
+    "url": "https://github.com/rogerwelin/cassowary/releases/download/v0.11.0/cassowary_0.11.0_Windows_x86_64.tar.gz",
+    "hash": "15c1a7f65a8bc26d61f54cd625bfc60ef621bf475283f5ddc63a1e0cd37a2a3a",
+    "bin": "cassowary.exe"
+}
