@@ -5,8 +5,8 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/codesenberg/bombardier/releases/download/v1.2.4/bombardier-windows-amd64.exe#/bombardier.exe",
-            "hash": "DC0FA7A8EE725E0498847FD695DA972DE16C4B3B006B5801860882012616CF6F"
+            "url": "https://github.com/codesenberg/bombardier/releases/download/v1.2.5/bombardier-windows-amd64.exe#/bombardier.exe",
+            "hash": "52E0C22E3A10C06F7013BBB09D713AB52FAE6FBA5A86A5FFCFDD6546ED86B7CF"
         }
     },
     "bin": "bombardier.exe"
